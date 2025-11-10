@@ -23,7 +23,7 @@ public class Consumer
     {
         while (!shouldStop)
         {
-            // TODO: 
+            // TODO: im 250ms takt werte dequeue und summieren & die summe in main im sekundentakt ausgeben
             
             Thread.Sleep(250); // 250ms Takt
         }
