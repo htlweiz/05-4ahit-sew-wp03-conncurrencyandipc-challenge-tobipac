@@ -23,7 +23,7 @@ public class Consumer
     {
         while (!shouldStop)
         {
-            // TODO
+            // TODO: 
             
             Thread.Sleep(250); // 250ms Takt
         }
